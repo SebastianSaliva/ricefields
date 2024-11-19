@@ -50,12 +50,12 @@ A concise overview of the most popular Desktop Environments:
 - Still used though gradually being replaced by LXQt
 
 9. Deepin Desktop Environment (DDE)
-   - Beautiful, modern design
+- Beautiful, modern design
 - Created by Deepin Linux team
 - macOS-like appearance
 - Focus on aesthetics and usability
 
-1.  Pantheon
+10. Pantheon
 - Elementary OS desktop environment
 - Clean, macOS-inspired design
 - Focus on simplicity and elegance
